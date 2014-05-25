@@ -7,7 +7,7 @@ require "sermepa/version"
 Gem::Specification.new do |s|
   s.name        = "sermepa"
   s.version     = Sermepa::VERSION
-  s.authors     = ["Endika Gutiérrez"]
+  s.authors     = ["Endika Gutierrez"]
   s.email       = ["me@endika.net"]
   s.homepage    = "https://github.com/endSly/sermepa-rails"
   s.summary     = "Sermepa gateway for rails."
